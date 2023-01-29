@@ -8,7 +8,7 @@ sxhkd &
 picom &
 nitrogen --restore &
 xsetroot -cursor_name left_ptr &
-~/.config/polybar/./launch.sh
+~/.config/polybar/./launch.sh &
 
 bspc config border_width 1
 bspc config window_gap 10
